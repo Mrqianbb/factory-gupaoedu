@@ -25,4 +25,7 @@ public class AppTest
 		System.out.println();
 
 	}
+	public void testVs1(){
+	 System.out.println();
+	}
 }
