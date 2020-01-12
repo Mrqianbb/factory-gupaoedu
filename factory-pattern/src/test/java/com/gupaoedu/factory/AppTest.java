@@ -31,5 +31,8 @@ public class AppTest
 	public void testVs2(){
 	 System.out.println();
 	}
+	public void testVs3(){
+	 System.out.println();
+	}
 
 }
