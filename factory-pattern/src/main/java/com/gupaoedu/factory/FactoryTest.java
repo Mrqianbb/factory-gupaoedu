@@ -2,6 +2,13 @@ package com.gupaoedu.factory;
 
 public class FactoryTest {
 
+    /**
+     * - 直接实例化: 快速但不灵活。
+     * - 简单工厂: 通过工厂统一创建对象，增加灵活性。
+     * - 简单工厂优化: 使用反射或Class对象提高工厂的通用性和安全性。
+     * - 工厂方法模式: 通过接口和具体工厂类创建对象，更灵活、可扩展。
+     * @param args
+     */
     public static void main(String[] args) {
         //没使用任何工厂模式
         /*ICourse javaCourse = new JavaCourse();
